@@ -1,0 +1,54 @@
+body
+{
+	background-color: #ffe5e5;
+	text-align: center;
+}
+
+img
+{
+	width:400px;
+}
+
+h1
+{
+	color:#ff8100;
+	font-weight: bold;
+	font-size:48px;
+	font-family:Comic,Arial;
+	border: 1px solid black;
+	outline-style: dashed;
+    outline-color: red;
+    outline-width: thick;
+}
+
+
+#judul
+{
+	color:#f00;
+	font-weight: bold;
+	font-size:48px;
+	font-family:verdana;
+}
+
+p
+{
+	color:#8B705A;
+	font-weight: bold;
+	font-family:Helvetica;
+}
+
+ol 
+{
+    background: #ff9999;
+    padding: 20px;
+    margin-left: 35px;
+}
+
+ol li 
+{
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+
