@@ -1,0 +1,113 @@
+body 
+{
+
+    background: url(b5.jpg) no-repeat fixed top center; 
+	background-size: 100% 100%;
+	background-attachment: fixed; 
+}
+
+.bagian
+{
+	max-width: 1000px;
+	border:3px;
+	margin: 40px auto;
+	border-radius: 40px;
+
+	overflow: hidden;
+	padding: 10px;
+	background-color: #FFECAD;
+
+}
+
+
+.judul
+{
+	font-family: "Palatino Linotype" arial;
+	background-color: #9182CE;
+	height: 100px;
+	background-size: cover;
+	
+	text-align:center; 
+	color: #FFCDFF;
+	font-size: 30px;  
+
+	
+}
+
+.menu
+{
+	width: 250px;
+	height: 150px;
+	border-radius: 20px;
+	text-align: center;
+	padding: 10px;
+	float: left;
+	background-color: #35FF61;
+	margin: 60px;
+	
+
+	overflow-y: auto; 
+}
+
+
+
+.lirik
+{
+	
+	overflow-y: scroll;
+	width: 450px;
+	height: 550px;
+	float: right;
+	border-radius: 25px;
+	text-align: center;
+
+	padding: 10px;
+	margin: 60px;
+	background-color: #d0c2f4;
+
+	
+ 	    
+   
+}
+
+.lirik img
+{
+	max-width: 150px;
+	border-radius: 75%;
+	height: 150px;
+
+}
+
+
+@media screen and (max-width: 1080px)
+{
+	
+	.bagian  {
+		width: 100%;
+	}
+	.menu  {
+		width: 25%;
+			background-color: #cdcd00;
+
+	}
+	.lirik {
+		width: 68%;
+		float: right;
+	
+
+	}
+	
+}
+@media screen and (max-width: 1000px)
+{
+	
+	h1
+	{
+		text-align: center;
+	}
+	.menu , .lirik {
+		width: auto;
+		float: none;
+	}
+		
+}
