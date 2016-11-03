@@ -1,0 +1,3 @@
++10 untuk tugas selesai (sudah sync ke github per tanggal 2/11/16 23.59pm)
++20 untuk setiap selector yg lebih dari 5 properties
++2 untuk setiap .class ke5 sampai .class ke10
