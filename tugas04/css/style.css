@@ -1,0 +1,47 @@
+img
+{
+	max-width: 250px;
+	max-height: 250px;
+	border-radius: 200px;
+	 -webkit-box-shadow: 0px -1px 40px 10px rgba(205,133,63,1);
+    -moz-box-shadow: 0px -1px 40px 10px rgba(205,133,63,1);
+	box-shadow: 0px -1px 40px 10px rgba(205,133,63,1);
+}
+
+p
+{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+#about,header,.navbar-brand
+{
+	background-color: #e4e897;
+	background:linear-gradient(to right,#e4e897,#8ce5bf);
+	color: #0968ff;
+}
+#mainNav
+{
+	background-color: #8ce5bf;
+
+	outline-style: dashed;
+    outline-color: #8142bd;
+    outline-width: thick;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption
+{
+	background-color: #e4e897;
+}
+
+hr.style15
+{
+	background-color: #ffe070;
+	border-top: 2px dashed #7ce139;
+
+}
+
+.footer-above
+{
+	background-color: #a57406;
+}
