@@ -1,0 +1,51 @@
+body
+{
+ 
+  	font-family: helvetica,arial;
+  	background: linear-gradient(to right,#818181,#988274);
+}
+
+.jumbotron
+{
+	background: linear-gradient(to right, #F8F8FF,#BFF);
+	background: #FFEEDD;
+}
+
+.list-group-item
+{
+	background: linear-gradient(to right, #F8F8FF,#FFC0CB);
+}
+
+h2
+{
+	color: #FFBD28;
+	font-weight: bold;
+	text-shadow: 1.2px 1.2px #818181;
+	outline-style: dashed;
+    outline-color: #d0a6cf;
+    outline-width: thick;
+    font-family: "Trebuchet MS" arial;
+}
+h1
+{
+	font-weight: bold;
+}
+p
+{
+	font-family:cursive;
+	font-size: 14px;
+}
+/* visited link */
+	a:visited 
+	{
+    		color: #E8247C;
+			
+	}
+
+
+#kegiatan
+{
+	outline-style: dashed;
+    outline-color: #d0a6cf;
+    outline-width: thick;
+}

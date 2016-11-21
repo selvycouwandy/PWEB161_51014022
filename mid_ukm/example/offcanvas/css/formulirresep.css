@@ -1,0 +1,19 @@
+body 
+{
+ 	background: linear-gradient(to right, #818181,#988274);
+}
+
+
+.form-signin 
+{
+	max-height:220px;
+    max-width: 770px;;
+    padding: 25px;
+    
+}
+h2
+{
+	
+	font-weight: bold;
+		color: #FFBD28;
+}
