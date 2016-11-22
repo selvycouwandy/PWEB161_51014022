@@ -2,19 +2,15 @@ body
 {
  
   	font-family: helvetica,arial;
-  	background: linear-gradient(to right,#818181,#988274);
+  	background: linear-gradient(to right,#818181,#ac8274,#988274);
+
 }
 
 .jumbotron
 {
-	background: linear-gradient(to right, #F8F8FF,#BFF);
-	background: #FFEEDD;
+		background: linear-gradient(to right,#818181,#ac8274,#988274);
 }
 
-.list-group-item
-{
-	background: linear-gradient(to right, #F8F8FF,#FFC0CB);
-}
 
 h2
 {
@@ -24,11 +20,12 @@ h2
 	outline-style: dashed;
     outline-color: #d0a6cf;
     outline-width: thick;
-    font-family: "Trebuchet MS" arial;
+    font-family: "Trebuchet MS" "Arial Black" sans-serif;
 }
 h1
 {
 	font-weight: bold;
+	color: #ff9174;
 }
 p
 {
