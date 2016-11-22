@@ -29,7 +29,7 @@ h1
 }
 p
 {
-	font-family:cursive;
+	font-family:arial;
 	font-size: 14px;
 }
 /* visited link */
@@ -49,5 +49,11 @@ p
 
 .navbar
 {
-	background-color: #ddeeff;
+background-color: white;
+
+}
+
+.container
+{
+	color: #fff;
 }
