@@ -35,7 +35,7 @@ p
 /* visited link */
 	a:visited 
 	{
-    		color: #E8247C;
+    		color: #988274;
 			
 	}
 
@@ -57,3 +57,14 @@ background-color: #988274;
 {
 	color: #fff;
 }
+
+.navbar-inverse .navbar-brand , .navbar-inverse .navbar-nav>li>a 
+{
+    color: #000;}
+
+
+    .btn-primary {
+    color: #fff;
+    background-color: #FFBD28;
+    border-color: #fff;}
+

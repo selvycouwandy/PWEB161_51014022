@@ -31,3 +31,12 @@ h2
 	font-weight: bold;
 		color: #FFBD28;
 }
+
+
+
+
+	.btn-primary {
+    color: #fff;
+    background-color: #FFBD28;
+    border-color: #fff;
+}
